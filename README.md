@@ -1,0 +1,2 @@
+# python_competitive_programming_sheets
+This repository contain competitive programming sheets
